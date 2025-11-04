@@ -3,3 +3,11 @@
 *.db
 *.db-wal
 *.db-shm
+/.vs/BakingAssistanceTool/CopilotIndices/17.14.1347.20289/CodeChunks.db
+/.vs/BakingAssistanceTool/CopilotIndices/17.14.1347.20289/CodeChunks.db-shm
+/.vs/BakingAssistanceTool/CopilotIndices/17.14.1347.20289/CodeChunks.db-wal
+/.vs/BakingAssistanceTool/CopilotIndices/17.14.1347.20289/SemanticSymbols.db
+/.vs/BakingAssistanceTool/CopilotIndices/17.14.1347.20289/SemanticSymbols.db-shm
+/.vs/BakingAssistanceTool/CopilotIndices/17.14.1347.20289/SemanticSymbols.db-wal
+/.vs/BakingAssistanceTool/v17/DocumentLayout.json
+/.vs/BakingAssistanceTool/v17/.suo
