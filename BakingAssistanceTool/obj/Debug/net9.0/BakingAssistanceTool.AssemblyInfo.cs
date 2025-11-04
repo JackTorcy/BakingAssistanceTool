@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BakingAssistanceTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94c1a361e4393a8d15501080d803c3a791c10686")]
 [assembly: System.Reflection.AssemblyProductAttribute("BakingAssistanceTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BakingAssistanceTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
