@@ -17,7 +17,7 @@ if (!app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-//Test
+
 app.UseAntiforgery();
 
 app.MapStaticAssets();
